@@ -1,0 +1,4 @@
+#Wed Nov 06 11:17:30 IST 2019
+base.0=/home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.4] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/b2b36803aee087cce0b426450047b5a8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/2a6021d1a5c81d9c9f68062a6e5f7c26/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/15240648990c985f4ca2ba0b02e3b2ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/1223905676e69312be755c929b6ec142/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/a0522d87c7bc329e53072dd4eba7a211/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e88baa22ef3fc2bcec6f8829459c6d1b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/aa38486f46995a7625ad5fb245112f4b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e695fb6e73ad5abf56bf1a4c299bdeac/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/4ad2ea93d0dcb71e7272013171f5a4fd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/38c56ddb57dc468f7980cf378f5e41a4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/44a741188ae829f4e9121cc0afbf7b7a/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/46143bcaf0361246fd0134f9cefa984b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/83e772d6f0f0615d7cffe57edd7f3ebe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/1cdc2770b9dd8147bcc5a29af8f18ee3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e0b50fb779cfabe0b26ac44df72b615c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/23676aee15d4a1a84eb561b9c61ff403/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/ddb368fa035a61901cfb3ff0ce69680f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/745d187588edb325e75fc2a5f7ab2ab7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/d89663f6699bb1f7626e2ad1d37a8265/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/2b5a897516b57bc701711a6de40cf53e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/cde3bda946228ad51d90c30128c1ce25/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/73b1c7008828dff2367dfd1cc9e916fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/c1cda483c2cefeb7446b42d8012b7713/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/c84b16809a95b850db90fac397808620/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e1dc4f6add1d20566765175db430211c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/c115d32f1fbd943d1f075b323bd1c432/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/9a5eb5cc22a595dff75755ab27a56d30/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/d5e6110e3494f96a4c5e43bb504fdd5e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/a785f63f0cde9d3d7f8f751ea14f1ee5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/8a1131f9fa52a59429b6e5aca31040bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e365ef156b569d4d169efb06da26d0ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/ea21d9e411303d9f7c19256d44392f16/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/aac4b9c66f62f17ee17797b755160ceb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/867e19d18c9e8bdfc70322fe7569216c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/8dbe7b184fd813c9d37f1a0777b304e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/03332ce09dd9d2afb6d54e6396ff8cfe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/bb1b9ae062c0cb0f0229645cab2d8325/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.4] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/b2b36803aee087cce0b426450047b5a8/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/b2b36803aee087cce0b426450047b5a8/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/44a741188ae829f4e9121cc0afbf7b7a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/44a741188ae829f4e9121cc0afbf7b7a/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e1dc4f6add1d20566765175db430211c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e1dc4f6add1d20566765175db430211c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/c115d32f1fbd943d1f075b323bd1c432/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/c115d32f1fbd943d1f075b323bd1c432/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e1dc4f6add1d20566765175db430211c/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.democalculator.MainActivity
+ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.4] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/b2b36803aee087cce0b426450047b5a8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/b2b36803aee087cce0b426450047b5a8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/2a6021d1a5c81d9c9f68062a6e5f7c26/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/2a6021d1a5c81d9c9f68062a6e5f7c26/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/15240648990c985f4ca2ba0b02e3b2ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/15240648990c985f4ca2ba0b02e3b2ee/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/1223905676e69312be755c929b6ec142/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/1223905676e69312be755c929b6ec142/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/a0522d87c7bc329e53072dd4eba7a211/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/a0522d87c7bc329e53072dd4eba7a211/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e88baa22ef3fc2bcec6f8829459c6d1b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e88baa22ef3fc2bcec6f8829459c6d1b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/aa38486f46995a7625ad5fb245112f4b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/aa38486f46995a7625ad5fb245112f4b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e695fb6e73ad5abf56bf1a4c299bdeac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e695fb6e73ad5abf56bf1a4c299bdeac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/4ad2ea93d0dcb71e7272013171f5a4fd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/4ad2ea93d0dcb71e7272013171f5a4fd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/38c56ddb57dc468f7980cf378f5e41a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/38c56ddb57dc468f7980cf378f5e41a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/44a741188ae829f4e9121cc0afbf7b7a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/44a741188ae829f4e9121cc0afbf7b7a/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/46143bcaf0361246fd0134f9cefa984b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/46143bcaf0361246fd0134f9cefa984b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/83e772d6f0f0615d7cffe57edd7f3ebe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/83e772d6f0f0615d7cffe57edd7f3ebe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/1cdc2770b9dd8147bcc5a29af8f18ee3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/1cdc2770b9dd8147bcc5a29af8f18ee3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e0b50fb779cfabe0b26ac44df72b615c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e0b50fb779cfabe0b26ac44df72b615c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/23676aee15d4a1a84eb561b9c61ff403/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/23676aee15d4a1a84eb561b9c61ff403/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/ddb368fa035a61901cfb3ff0ce69680f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/ddb368fa035a61901cfb3ff0ce69680f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/745d187588edb325e75fc2a5f7ab2ab7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/745d187588edb325e75fc2a5f7ab2ab7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/d89663f6699bb1f7626e2ad1d37a8265/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/d89663f6699bb1f7626e2ad1d37a8265/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/2b5a897516b57bc701711a6de40cf53e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/2b5a897516b57bc701711a6de40cf53e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/cde3bda946228ad51d90c30128c1ce25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/cde3bda946228ad51d90c30128c1ce25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/73b1c7008828dff2367dfd1cc9e916fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/73b1c7008828dff2367dfd1cc9e916fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/c1cda483c2cefeb7446b42d8012b7713/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/c1cda483c2cefeb7446b42d8012b7713/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/c84b16809a95b850db90fac397808620/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/c84b16809a95b850db90fac397808620/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e1dc4f6add1d20566765175db430211c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e1dc4f6add1d20566765175db430211c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/c115d32f1fbd943d1f075b323bd1c432/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/c115d32f1fbd943d1f075b323bd1c432/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/9a5eb5cc22a595dff75755ab27a56d30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/9a5eb5cc22a595dff75755ab27a56d30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/d5e6110e3494f96a4c5e43bb504fdd5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/d5e6110e3494f96a4c5e43bb504fdd5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/a785f63f0cde9d3d7f8f751ea14f1ee5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/a785f63f0cde9d3d7f8f751ea14f1ee5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/8a1131f9fa52a59429b6e5aca31040bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/8a1131f9fa52a59429b6e5aca31040bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e365ef156b569d4d169efb06da26d0ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e365ef156b569d4d169efb06da26d0ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/ea21d9e411303d9f7c19256d44392f16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/ea21d9e411303d9f7c19256d44392f16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/aac4b9c66f62f17ee17797b755160ceb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/aac4b9c66f62f17ee17797b755160ceb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/867e19d18c9e8bdfc70322fe7569216c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/867e19d18c9e8bdfc70322fe7569216c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/8dbe7b184fd813c9d37f1a0777b304e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/8dbe7b184fd813c9d37f1a0777b304e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/03332ce09dd9d2afb6d54e6396ff8cfe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/03332ce09dd9d2afb6d54e6396ff8cfe/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/bb1b9ae062c0cb0f0229645cab2d8325/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/chiranjivi/.gradle/caches/transforms-2/files-2.1/bb1b9ae062c0cb0f0229645cab2d8325/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/chiranjivi/Chiranjiv/projects/DemoCalculator/android/app/src/debug/AndroidManifest.xml:5:22-75
